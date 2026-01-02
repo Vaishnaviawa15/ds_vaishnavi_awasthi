@@ -5,6 +5,8 @@ This project analyzes how trader performance, risk, and behavior vary across dif
 
 Rather than treating sentiment as a predictive intraday signal, this analysis uses sentiment as a contextual market regime, allowing for a realistic assessment of how traders perform under Fear, Greed, and extreme market conditions.
 
+## ▶️Colab Link
+https://colab.research.google.com/drive/1QLi5ivyiNFfyGgmmZRF8lFpf1clB0rFZ?usp=sharing
 
 ## 🎯Objective
 
@@ -57,17 +59,6 @@ Q5.Are there traders who outperform during Fear markets?
 5.A subset of traders demonstrates contrarian behavior, outperforming during Fear markets
 
 
-## ▶️Run Locally
-
-**How to Run**
-
-Open notebook_1.ipynb in Google Colab
-
-Ensure all CSV files are placed inside the csv_files/ directory
-
-Run all cells sequentially
-
-Generated outputs and visualizations will be saved in the outputs/ folder
 ## 🧰Tech Stack
 
 **Python**
